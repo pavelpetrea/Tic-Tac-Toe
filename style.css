@@ -1,0 +1,107 @@
+#winning{
+    text-align: center;
+    font-family: 'Finger Paint', cursive;
+    cursor: default;
+    font-size: xxx-large;
+    color: #F8AD2B
+}
+#winning:hover{
+    color: #c28739;
+}
+footer{
+    text-align: center;
+    margin-left: -25px;
+    margin-top: 45px;
+    color: #F8AD2B;
+    font-family: 'Finger Paint', cursive;
+}
+footer:hover{
+    text-decoration: underline;
+    cursor: default;
+    color: #c28739;
+}
+body{
+    background-color: #37505C;
+    font-family: 'Finger Paint', cursive;
+}
+#input1{
+    margin-left: 31.1%;
+    text-align: center;
+    cursor: default;
+    background-color: #37505C;
+    caret-color: #37505C;
+    border-left: none;
+    border-top: none;
+}
+#input4{
+    margin-left: 31.1%; 
+    cursor: default;
+    background-color: #37505C;
+    caret-color:#37505C;
+    border-left: none;
+}
+#input7{
+    margin-left: 31.1%;
+    background-color: #37505C;
+    caret-color:#37505C;
+    border-left: none;
+    border-bottom: none;
+}
+input{
+    text-align: center;
+    border-color:rgb(255, 188, 64);
+    padding: 23px;
+    font-size: 100px;
+    cursor: default;
+    background-color: #37505C;
+    caret-color: #37505C;
+    width: 210px;
+    margin: -5px;
+    padding-bottom: 55px;
+    padding-top: 30px;
+    padding-left: 8px;
+    border-bottom: none;
+    border-right: none;
+    font-family: 'Finger Paint', cursive;
+    color: #F8AD2B;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #F8AD2B;
+    color: #333;
+    border-color: rgba(255, 166, 0, 0.671);
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+    margin-left: 45.5%;
+    margin-bottom: 50px;
+    cursor: pointer;
+    font-family: 'Finger Paint', cursive;
+}
+button:hover{
+    background-color: #c28739;
+}
+#input1:focus{
+    outline: none;
+    border: none;
+    margin-left: 31.1%;
+}
+#input4:focus{
+    outline: none;
+    margin-left: 31.1%;
+}
+#input7:focus{
+    outline: none;
+    
+    margin-left: 31.1%;
+}
+input:focus{
+    outline: none;
+}
+#input3{
+    border-top: none;
+}
+#input2{
+    border-top: none;
+}
